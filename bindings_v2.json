@@ -1,0 +1,19 @@
+{
+  "version": "2.0",
+  "resources": [
+    {
+      "resource": "asset",
+      "value": {
+        "folderPath": {
+          "defaultValue": "Assets",
+          "isExpression": false
+        },
+        "name": {
+          "defaultValue": "RobotEmailCredentials",
+          "isExpression": false
+        }
+      },
+      "metadata": {}
+    }
+  ]
+}
